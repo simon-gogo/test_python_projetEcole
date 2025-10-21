@@ -54,7 +54,7 @@ st.markdown("""#
 4. Calcul d’indicateurs de performance énergétique  
 """)
 
-st.info(ℹ️ Ces étapes serviront de base pour développer le modèle prédictif des consommations énergétiques.")
+st.info("ℹ️ Ces étapes serviront de base pour développer le modèle prédictif des consommations énergétiques.")
 
 st.header("mon application")
 st.title("Bonjour à tous !")
