@@ -11,6 +11,8 @@ st.set_page_config(page_title="Analyse énergétique - Oise", layout="wide")
 st.markdown("""## 1) Problématique réelle (Lien avec la spécialité **GRT**)""")
 st.markdown("""### Comment relier les consommations énergétiques de certains secteurs des communes de l’Oise pour pouvoir estimer celles d’autres secteurs dans ces mêmes territoires ?""")
 
+st.video("https://media.istockphoto.com/id/1428652448/fr/vid%C3%A9o/donn%C3%A9es-abstraites-dans-un-espace-virtuel-3d.mp4?s=mp4-640x640-is&k=20&c=DPtKN_UwqIzReyE5G4ZFBVA9IkQOTTGqM6rIm_02Elk=")
+
 # ==============================================================
 # 2) FORMULATION DE LA QUESTION PRATIQUE — APPROCHE DATA SCIENCE
 # ==============================================================
@@ -49,6 +51,3 @@ st.markdown("""## 📊 Étapes de traitement à réaliser pour y répondre"
 4. Calcul d’indicateurs de performance énergétique""")
 
 st.info("ℹ️ Ces étapes serviront de base pour développer le modèle prédictif des consommations énergétiques.")
-
-url = "https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg"
-st.image(url, caption="Image depuis Internet", use_container_width=True)
