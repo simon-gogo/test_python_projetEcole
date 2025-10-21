@@ -50,5 +50,5 @@ st.markdown("""## 📊 Étapes de traitement à réaliser pour y répondre"
 
 st.info("ℹ️ Ces étapes serviront de base pour développer le modèle prédictif des consommations énergétiques.")
 
-url = "https://www.mygreatlearning.com/blog/what-is-data-science/"
+url = "https://www.mygreatlearning.com/blog/wp-content/uploads/2019/09/What-is-data-science-2.jpg"
 st.image(url, caption="Image depuis Internet", use_container_width=True)
