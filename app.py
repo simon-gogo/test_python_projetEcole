@@ -44,7 +44,7 @@ st.markdown("""### Réaliser un pré-traitement des données énergétiques en :
 # ÉTAPES DE TRAITEMENT
 # ==============================================================
 
-st.markdown("## 📊 Étapes de traitement à réaliser pour y répondre"
+st.markdown("""## 📊 Étapes de traitement à réaliser pour y répondre"
 1. Nettoyage et préparation des données *(pandas, numpy)*  
 2. Analyse statistique descriptive *(moyenne, médiane, écart-type)*  
 3. Visualisation temporelle *(matplotlib, seaborn)*  
