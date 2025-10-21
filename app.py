@@ -8,9 +8,10 @@ st.set_page_config(page_title="Analyse énergétique - Oise", layout="wide")
 # 1) PROBLÉMATIQUE RÉELLE (LIEN AVEC LA SPÉCIALITÉ GRT)
 # ==============================================================
 
-st.markdown("<h1 style='text-align: center;'>Problématique réelle (Lien avec la spécialité **GRT**)!</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>Problématique réelle (Lien avec la spécialité GRT)!</h1>", unsafe_allow_html=True)
 
-st.markdown("""## 1) Problématique réelle (Lien avec la spécialité **GRT**)""")
+st.markdown("<p style='text-align:center;'>GODART Simon, BAYVET Guillaume (promo 086)</p>", unsafe_allow_html=True)
+
 st.markdown("""### Comment relier les consommations énergétiques de certains secteurs des communes de l’Oise pour pouvoir estimer celles d’autres secteurs dans ces mêmes territoires ?""")
 
 st.video("https://media.istockphoto.com/id/1428652448/fr/vid%C3%A9o/donn%C3%A9es-abstraites-dans-un-espace-virtuel-3d.mp4?s=mp4-640x640-is&k=20&c=DPtKN_UwqIzReyE5G4ZFBVA9IkQOTTGqM6rIm_02Elk=")
