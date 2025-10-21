@@ -9,8 +9,7 @@ st.set_page_config(page_title="Analyse énergétique - Oise", layout="wide")
 # ==============================================================
 
 st.markdown("""## 1) Problématique réelle (Lien avec la spécialité **GRT**)""")
-st.markdown("""### Comment relier les consommations énergétiques de certains secteurs des communes de l’Oise 
-pour pouvoir estimer celles d’autres secteurs dans ces mêmes territoires ?""")
+st.markdown("""### Comment relier les consommations énergétiques de certains secteurs des communes de l’Oise pour pouvoir estimer celles d’autres secteurs dans ces mêmes territoires ?""")
 
 # ==============================================================
 # 2) FORMULATION DE LA QUESTION PRATIQUE — APPROCHE DATA SCIENCE
@@ -23,9 +22,7 @@ st.markdown("""### **Techniques mobilisées :**
 - *Machine learning* """)  
 
 st.markdown("""## **Question pratique :** """)  
-st.markdown("""### Comment construire une prédiction qui soit basée sur les consommations énergétiques 
-de plusieurs secteurs répartis sur différentes communes de l’Oise, afin d’estimer 
-la consommation énergétique d’autres secteurs qui n’ont pas été mesurées ? """)
+st.markdown("""### Comment construire une prédiction qui soit basée sur les consommations énergétiques de plusieurs secteurs répartis sur différentes communes de l’Oise, afin d’estimer la consommation énergétique d’autres secteurs qui n’ont pas été mesurées ?""")
 
 # ==============================================================
 # TRAITEMENTS DE DONNÉES
