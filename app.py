@@ -50,14 +50,4 @@ st.markdown("""## 📊 Étapes de traitement à réaliser pour y répondre"
 
 st.info("ℹ️ Ces étapes serviront de base pour développer le modèle prédictif des consommations énergétiques.")
 
-st.header("mon application")
-st.title("Bonjour à tous !")
-st.write("Mineure numérique")
-
-nombres = [1, 2, 3, 4]
-carre = [1**1, 2**2, 3**3, 4**4]
-
-d = {"nombres" : nombres, "carré" : carre}
-data = pd.DataFrame(d)
-
-st.dataframe(data)
+st.image("kid.jpg", caption="A kid playing")
