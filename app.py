@@ -8,7 +8,7 @@ st.set_page_config(page_title="Analyse énergétique - Oise", layout="wide")
 # 1) PROBLÉMATIQUE RÉELLE (LIEN AVEC LA SPÉCIALITÉ GRT)
 # ==============================================================
 
-st.markdown("<h1 style='text-align: center;'>Texte centré !</h1>", unsafe_allow_html=True)
+st.markdown("<h1 style='text-align: center;'>Problématique réelle (Lien avec la spécialité **GRT**)!</h1>", unsafe_allow_html=True)
 
 st.markdown("""## 1) Problématique réelle (Lien avec la spécialité **GRT**)""")
 st.markdown("""### Comment relier les consommations énergétiques de certains secteurs des communes de l’Oise pour pouvoir estimer celles d’autres secteurs dans ces mêmes territoires ?""")
