@@ -9,7 +9,7 @@ st.set_page_config(page_title="Analyse énergétique - Oise", layout="wide")
 # ==============================================================
 
 st.markdown("<h1 style='text-align: center;'>Problématique réelle (Lien avec la spécialité GRT)</h1>", unsafe_allow_html=True)
-st.markdown("<h2 style='text-align:center;'>GODART Simon, BAYVET Guillaume (promo 086)</h2>", unsafe_allow_html=True)
+st.markdown("<h3 style='text-align:center;'>GODART Simon, BAYVET Guillaume (promo 086)</h3>", unsafe_allow_html=True)
 
 st.markdown("""#### Comment relier les consommations énergétiques de certains secteurs des communes de l’Oise pour pouvoir estimer celles d’autres secteurs dans ces mêmes territoires ?""")
 
@@ -17,7 +17,8 @@ st.markdown("""#### Comment relier les consommations énergétiques de certains 
 # 2) FORMULATION DE LA QUESTION PRATIQUE — APPROCHE DATA SCIENCE
 # ==============================================================
 
-st.markdown("## 2) Formulation de la question pratique (Approche *Data Science*)")
+st.markdown("<h1 style='text-align: center;'>Formulation de la question pratique (Approche *Data Sciences*)</h1>", unsafe_allow_html=True)
+
 st.markdown("""### **Techniques mobilisées :**
 - *Traitements de données* 
 - *Data mining*  
