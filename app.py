@@ -8,7 +8,7 @@ st.set_page_config(page_title="Analyse énergétique - Oise", layout="wide")
 # 1) PROBLÉMATIQUE RÉELLE (LIEN AVEC LA SPÉCIALITÉ GRT)
 # ==============================================================
 
-st.title("Mineure Data Sciences (5A) : Consommation énergétique des communautés de commune de l'Oise")
+st.markdown("<h1 style='text-align: center; color: cyan;'>Mineure Data Sciences (5A) : Consommation énergétique des communautés de commune de l'Oise</h1>", unsafe_allow_html=True)
 
 st.markdown("<h3 style='text-align:center;'>Comment relier les consommations énergétiques de certains secteurs des communes de l’Oise pour pouvoir estimer celles d’autres secteurs dans ces mêmes territoires ?</h3>", unsafe_allow_html=True)
 st.markdown("<h5 style='text-align:center;'>GODART Simon, BAYVET Guillaume (promo 086)</h5>", unsafe_allow_html=True)
